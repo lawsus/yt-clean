@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "YouTube Secondary Column Remover",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Removes the secondary column from YouTube watch pages",
     "permissions": [
       "https://www.youtube.com/*"
